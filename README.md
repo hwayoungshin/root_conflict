@@ -23,3 +23,6 @@ This project explores whether publicly available GIS datasets can be combined wi
 # Future Work
 Integrate D50/D95 root predictions
 Add water, gas, and electrical utility datasets
+
+Data source: Hong Kong CSDI Geoportal (public utility datasets).
+This repository demonstrates a proof-of-concept and is intended for research and prototyping purposes.
